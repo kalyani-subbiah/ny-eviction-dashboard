@@ -1,0 +1,3 @@
+ny_eviction_dashboard/utils/soda_header.txt
+*.pyc
+__pycache__/
